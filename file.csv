@@ -1,0 +1,2 @@
+Username,email,age,type,gender,subcribed
+Nabeel Bhatti,nabeel@bhatti.com,23,Student,<bound method StringVar.get of <tkinter.StringVar object at 0x0000029E44F1F2B0>>,YES
